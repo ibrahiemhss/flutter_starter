@@ -67,6 +67,11 @@ flutter run --flavor production --target lib/main_production.dart
 ```
 
 ---
+## Generating Localization Files
+To generate the localization files, use the following command:
+```sh
+flutter gen-l10n
+```
 
 ## Building the App 🔥
 

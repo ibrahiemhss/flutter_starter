@@ -1,0 +1,13 @@
+{
+    "@@locale": "ar",
+    "counterAppBarTitle": "العداد",
+    "@counterAppBarTitle": {
+        "description": "النص الذي يظهر في شريط التطبيق لصفحة العداد"
+    },
+    "pageNotFoundMessage": "عذرًا، لم نتمكن من العثور على تلك الصفحة…",
+    "backToHomeLabel": "العودة إلى الصفحة الرئيسية",
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "theme": "السمة",
+    "home": "الصفحة الرئيسية"
+}
